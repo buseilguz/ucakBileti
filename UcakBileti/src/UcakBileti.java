@@ -14,6 +14,7 @@ public class UcakBileti {
 			distance=scn.nextDouble();
 		}
 		System.out.println("Yaþýnýzý giriniz:");
+		
 		age=scn.nextInt();
 		if (age<0) {
 			System.out.println("Hatalý veri girdiniz.Lütfen 0'dan büyük deðer giriniz.");
